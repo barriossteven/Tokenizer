@@ -1,0 +1,129 @@
+hello12
+
+	word "hello12"
+
+
+23456fvgf0942
+	
+	decimal integer constant "23456"
+	
+	word "fvgf0942"
+
+
+03453487 0x35sfawe3
+	
+	octal constant "034535"
+	
+	decimal integer constant "78"
+	
+	hexadecimal constant "0x35"
+	
+	word "sfawe3"
+
+
+hello123 my <name> is [steven<<=] 
+	
+	word "hello123"
+	
+	word "my"
+	
+	less than sign "<"
+	
+	word "name"
+	
+	greater than sign ">"
+
+	word "is"
+	
+	left brace "["
+	
+	word "steven"
+	
+	shiftleft/equals "<<="
+	
+	right brace "]"
+
+
+=+==++-=--+++001e+234
+	
+	equal sign"="
+	
+	addition/equals"+="
+	
+	equal sign "="
+	
+	increase "++"
+	
+	subtraction/equals "-="
+	
+	decrease "--"
+	
+	increase "++"
+	
+	subtraction/equals "-="
+	
+	decrease "--"
+	
+	increase "++"
+	
+	addition sign "+"
+	
+	octal constant "001"
+	
+	word "e"
+	
+	addition sign "+"
+	
+	decimal integer constant "234"
+\" 
+
+2this float3 234E+23 0.0342e+34
+	
+	double quote """
+	
+	decimal integer constant "2"
+	
+	word "this"
+	
+	word "float3"
+	
+	float "234E+23"
+	
+	float "0.342e+34"
+099e+
+	
+	zero "0"
+	
+	decimal integer constant "99"
+	
+	word "e"
+	
+	addition sign "+"
+
+
+'c' Alphabet&||&&
+	
+	single quote  "'"
+	
+	word "c"
+	
+	single quote "'"
+	
+	word "Alphabet"
+	
+	bitwise and "&"
+	
+	logical or "||"
+	
+	logical and "&&"
+
+
+0x4356abcd 0777 []
+	
+	hexadecimal constant "0x4356abcd"
+	
+	octal constant "0777"
+	
+	left brace "["
+	
+	right brace "]"
